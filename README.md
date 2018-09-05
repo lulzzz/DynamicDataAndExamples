@@ -15,10 +15,10 @@ I demonstrate in this project that you do not need structured sets of nodes and 
 <b>What are potential advantages of this system?</b>
 
 <li>Greater Efficiency</li>
-<li>Lower Bariers To Entry</li>
+<li>Lower Barriers To Entry</li>
 <li>Its In C#</li>
 <li>Program Defines Its Own Node Structure</li>
-<li>Externalized Weights (removes the necesity of backpropagation!)</li>
+<li>Externalized Weights (removes the necessity of backpropagation!)</li>
 
 <br/>
 <br/>
