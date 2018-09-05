@@ -25,18 +25,15 @@ I demonstrate in this project that you do not need structured sets of nodes and 
 I will create a youtube video soon explaining the network.<br/><br/>
 
 <b>Has this been done before?</b><br/>
-<br/>
 Not to my knowledge but if you know of a system like this please let me know.
 <br/>
 <br/>
 <br/>
-
 <b>Why Get Rid of Back Propagation?</b><br/>
-<br/>
 Because backpropagation is the more time consuming and difficult elements of neural networks to get right. It requires an enormous amount of tweaking to get it correctly assigning blame to individual nodes. You have to either understand precisely what is needing to be achieved or you go through an enormous amount of iterations, trying different things. Both options are prohibitable expensive. Even if you were to create a neural net to handle backpropagation it would be limited by its own backpropagation. Not to mention backpropagation is also resource intensive. 
 
 
-<b>How The FUCK Did You Eliminate Backpropagation!?!?</b><br/><br/>
+<b>How The FUCK Did You Eliminate Backpropagation!?!?</b><br/>
 Ok so… Your just going to have to watch the youtube video I linked above. It's basically chaos theory written in code. In other words, the system that wins wins.
 <br/>
 <br/>
