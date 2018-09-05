@@ -30,7 +30,7 @@ Not to my knowledge but if you know of a system like this please let me know.
 <br/>
 <br/>
 <b>Why Get Rid of Back Propagation?</b><br/>
-Because backpropagation is the more time consuming and difficult elements of neural networks to get right. It requires an enormous amount of tweaking to get it correctly assigning blame to individual nodes. You have to either understand precisely what is needing to be achieved or you go through an enormous amount of iterations, trying different things. Both options are prohibitable expensive. Even if you were to create a neural net to handle backpropagation it would be limited by its own backpropagation. Not to mention backpropagation is also resource intensive. 
+Because backpropagation is the more time consuming and difficult element of neural networks. It requires an enormous amount of tweaking to get it correctly assigning blame to individual nodes. You have to either understand precisely what is needing to be achieved or you go through an enormous amount of iterations, trying different things. Both options are prohibitable expensive. Even if you were to create a neural net to handle backpropagation it would be limited by its own backpropagation. Not to mention backpropagation is also resource intensive. 
 
 
 <b>How The FUCK Did You Eliminate Backpropagation!?!?</b><br/>
