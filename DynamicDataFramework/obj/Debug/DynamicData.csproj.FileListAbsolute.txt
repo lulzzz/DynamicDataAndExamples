@@ -1,0 +1,17 @@
+C:\Users\Brandon\Source\Repos\DOTDAT_FRAMEWORK\DOTDAT_FRAMEWORK\bin\Debug\DynamicData.dll
+C:\Users\Brandon\Source\Repos\DOTDAT_FRAMEWORK\DOTDAT_FRAMEWORK\bin\Debug\DynamicData.pdb
+C:\Users\Brandon\Source\Repos\DOTDAT_FRAMEWORK\DOTDAT_FRAMEWORK\obj\Debug\DynamicData.csprojAssemblyReference.cache
+C:\Users\Brandon\Source\Repos\DOTDAT_FRAMEWORK\DOTDAT_FRAMEWORK\obj\Debug\DynamicData.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Source\Repos\DOTDAT_FRAMEWORK\DOTDAT_FRAMEWORK\obj\Debug\DynamicData.dll
+C:\Users\Brandon\Source\Repos\DOTDAT_FRAMEWORK\DOTDAT_FRAMEWORK\obj\Debug\DynamicData.pdb
+C:\Users\Brandon\Source\Repos\DynamicDataFramework\DynamicDataFramework\bin\Debug\DynamicData.dll
+C:\Users\Brandon\Source\Repos\DynamicDataFramework\DynamicDataFramework\bin\Debug\DynamicData.pdb
+C:\Users\Brandon\Source\Repos\DynamicDataFramework\DynamicDataFramework\obj\Debug\DynamicData.csprojAssemblyReference.cache
+C:\Users\Brandon\Source\Repos\DynamicDataFramework\DynamicDataFramework\obj\Debug\DynamicData.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Source\Repos\DynamicDataFramework\DynamicDataFramework\obj\Debug\DynamicData.dll
+C:\Users\Brandon\Source\Repos\DynamicDataFramework\DynamicDataFramework\obj\Debug\DynamicData.pdb
+C:\Users\Brandon\DynamicDataFramework\DynamicDataFramework-master\DynamicDataFramework\bin\Debug\DynamicData.dll
+C:\Users\Brandon\DynamicDataFramework\DynamicDataFramework-master\DynamicDataFramework\bin\Debug\DynamicData.pdb
+C:\Users\Brandon\DynamicDataFramework\DynamicDataFramework-master\DynamicDataFramework\obj\Debug\DynamicData.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\DynamicDataFramework\DynamicDataFramework-master\DynamicDataFramework\obj\Debug\DynamicData.dll
+C:\Users\Brandon\DynamicDataFramework\DynamicDataFramework-master\DynamicDataFramework\obj\Debug\DynamicData.pdb
