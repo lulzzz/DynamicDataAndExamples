@@ -12,14 +12,24 @@ I demonstrate in this project that you do not need structured sets of nodes and 
 
 <br/>
 <br/>
+<b>What are potential advantages of this system?</b>
+
+<li>Greater Efficiency</li>
+<li>Lower Bariers To Entry</li>
+<li>Its In C#</li>
+<li>Program Defines Its Own Node Structure</li>
+<li>Externalized Weights (removes the necesity of backpropagation!)</li>
+
+<br/>
+<br/>
 I will create a youtube video soon explaining the network.<br/><br/>
 
-<b>Has this been done before</b><br/>
+<b>Has this been done before<?/b><br/>
 <br/>
-Not to my knowledge but if you  know of a system like this please let me know.
+Not to my knowledge but if you know of a system like this please let me know.
 <br/>
 <br/>
-
+<br/>
 
 <b>Why Get Rid of Back Propagation?</b><br/>
 <br/>
