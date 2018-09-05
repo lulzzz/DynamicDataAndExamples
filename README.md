@@ -24,7 +24,7 @@ I demonstrate in this project that you do not need structured sets of nodes and 
 <br/>
 I will create a youtube video soon explaining the network.<br/><br/>
 
-<b>Has this been done before<?/b><br/>
+<b>Has this been done before?</b><br/>
 <br/>
 Not to my knowledge but if you know of a system like this please let me know.
 <br/>
